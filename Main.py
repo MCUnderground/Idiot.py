@@ -25,4 +25,4 @@ async def on_message(message):
         await  client.send_file(message.channel, random.choice(sexy))
 
 
-client.run('Mjk1MzUzMTQ4NDk3ODU0NDY1.C7iclg.brIhnrD0Sogh-JGnHOiX6ZcH_ek')
+client.run('')
